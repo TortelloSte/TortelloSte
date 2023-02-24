@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TortelloSte
 - 👀 I’m interested in Machine Learning, Domotics and Data Analysis
-- 🌱 I’m currently learning Python, Sql and web development
+- 🌱 I’m currently working as Data Analyst using Python
 - 📫 How to reach me: https://www.linkedin.com/in/stefano-perdicchia/
 
 <!---
