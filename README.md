@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TortelloSte
-- 👀 I’m interested in Machine Learning using Python, Domotics and Data Analysis | Blockchain, Solidity and Crypto
+- 👀 I’m interested in Machine Learning, Domotics and Data Analysis | Blockchain, Smart Contract
 - 🌱 I’m currently working as Data Analyst using Python and Develop a Farmbot for LarioFiere
 - 📫 How to reach me: https://www.linkedin.com/in/stefano-perdicchia/
 
