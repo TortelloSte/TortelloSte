@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @TortelloSte
-- 👀 I’m interested in Machine Learning, Domotics and Data Analysis | Blockchain, Smart Contract
+- 👀 I’m interested in Machine Learning | Blockchain | VideoGames & Robotics
 - 🌱 I’m currently working as Machine Learning Developer | Game Developer
+- ✨ Owner of Team Mini-muuu
 - 📫 How to reach me: https://www.linkedin.com/in/stefano-perdicchia/
 
 <!---
