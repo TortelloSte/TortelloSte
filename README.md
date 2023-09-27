@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @TortelloSte
-- 👀 I’m interested in Machine Learning | Blockchain | VideoGames & Robotics
-- 🌱 I’m currently working as Machine Learning Developer | Game Developer
-- ✨ Owner of Team Mini-muuu
-- 📫 How to reach me: https://www.linkedin.com/in/stefano-perdicchia/
+![image](https://github.com/TortelloSte/TortelloSte/assets/97806582/dd078f46-f9ec-4fd1-9aa7-2be156e5bc10)- 👋 Hi, I’m @TortelloSte
+- 👀 I’m interested in Machine Learning | Blockchain | VideoGames | Robotics | Drone
+- 🌱 I’m currently working as Machine Learning Developer for Links Management and Technology in Milan
+- ✨ Owner of Team Mini-muuu that is developing a Video Game -> ProChronos
+- 📫 How to reach me: https://www.linkedin.com/in/stefano-perdicchia or s.perdicchia@icloud.com
+
+
+
 
 <!---
 TortelloSte/TortelloSte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
