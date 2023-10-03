@@ -1,4 +1,4 @@
-<h1 align = 'center'> 👋 Hi, I'm @TortelloSte </h1>
+<h1 align = 'center'> 👋 Hi, I'm TortelloSte </h1>
 <h3> A Machine Learning Developer from Italy 🇮🇹 </h3>
 
 - 👀 I’m interested in Machine Learning | Blockchain | VideoGames | Robotics | Drone
