@@ -4,6 +4,8 @@
 - ✨ Owner of Team Mini-muuu that is developing a Video Game -> ProChronos
 - 📫 How to reach me: https://www.linkedin.com/in/stefano-perdicchia or s.perdicchia@icloud.com
 
+other:
+- 💻 minimuuu.it
 
 
 
