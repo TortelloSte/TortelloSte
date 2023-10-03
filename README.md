@@ -1,8 +1,6 @@
 <h1 align = 'center'> 👋 Hi, I'm @TortelloSte </h1>
 <h3> A Machine Learning Developer from Italy 🇮🇹 </h3>
 
-
-- 👋 Hi, I’m @TortelloSte
 - 👀 I’m interested in Machine Learning | Blockchain | VideoGames | Robotics | Drone
 - 🌱 I’m currently working as Machine Learning Developer for Links Management and Technology in Milan
 - ✨ *Owner* of Team Mini-muuu that is developing a Video Game -> ProChronos📫
