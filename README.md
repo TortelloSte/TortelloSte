@@ -8,7 +8,7 @@
 
   
 _other_:
-- 💻 minimuuu.it
+- 💻 www.minimuuu.it
 
 
 
