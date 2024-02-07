@@ -1,5 +1,5 @@
 <h1 align = 'center'> 👋 Hi, I'm TortelloSte </h1>
-<h3> A Machine Learning Developer from Italy 🇮🇹 </h3>
+<h3> Machine Learning Developer from Italy 🇮🇹 </h3>
 
 - 👀 I’m interested in Machine Learning | Blockchain | VideoGames | Robotics | Drone
 - 🌱 I’m currently working as Machine Learning Developer for Links Management and Technology in Milan
