@@ -2,7 +2,7 @@
 <h3> Developer from Italy 🇮🇹 </h3>
 
 - 👀 I’m interested in Machine Learning | DevOps | VideoGame Development
-- 🌱 I’m currently working as Junior DevOps engineer for F1Consulting in Milan
+- 🌱 I’m currently working as Junior DevOps engineer
 - ✨ *Owner* of Team Mini-muuu that is developing a Video Game -> ProChronos📫
 - How to *reach* me: https://www.linkedin.com/in/stefano-perdicchia or s.perdicchia@icloud.com
 
