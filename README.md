@@ -1,22 +1,35 @@
-# 👋 Hey there, I'm Stefano!
+# Hey there, I'm Stefano!
 
-🎮 I’m a creative developer passionate about building **AI systems**, **video games**, and **interactive experiences**.  
-🧠 I recently completed my studies in **Machine Learning** and **Artificial Intelligence**.  
-⚙️ I currently work as a **DevOps Engineer**, automating stuff and keeping things smooth behind the scenes.  
-💡 I love crafting tools, experimenting with code, and making things that bring value or joy to others.
+I’m a developer focused on building **platform infrastructure**, **cloud automation**, and **tools for game teams**.  
+I currently work as a **Platform Infrastructure Engineer** at **Raw Power Labs**, helping keep production systems reliable, scalable, and cost-efficient.  
+My background is in **Machine Learning / AI**, and I still enjoy experimenting with AI systems—especially where they intersect with games and developer tooling.  
+I like turning messy problems into clean systems: from pipelines and observability to internal platforms that make teams faster.
+
+---
+## What I work with
+
+- **Cloud & Platform Engineering** (AWS, infrastructure automation, internal platforms)
+- **DevOps / CI/CD** (pipelines, release workflows, developer experience)
+- **Observability & Reliability** (monitoring, logging, incident readiness)
+- **Cost Optimization & Governance** (finops, configuration hygiene, access patterns)
+- **AI systems for tooling** (practical experiments, not hype)
+
+---
+### Projects
+
+- [minimuuu.it](https://minimuuu.it)  
+- [notminicrawler.com](https://notminicrawler.com)
 
 ---
 
-### 📫 Contact Me
+### Contact
 
-- 📧 Email: [s.perdicchia@icloud.com](mailto:s.perdicchia@icloud.com)  
-- 💼 LinkedIn: [linkedin.com/in/stefano-perdicchia](https://www.linkedin.com/in/stefano-perdicchia/)  
-- 🌐 Projects: [minimuuu.it](https://minimuuu.it) | [notminicrawler.com](https://notminicrawler.com)
+- Email: [s.perdicchia@icloud.com](mailto:s.perdicchia@icloud.com)  
+- LinkedIn: https://www.linkedin.com/in/stefano-perdicchia/
 
 ---
+###  Fun facts
 
-### ✨ Fun Facts
-
-- 🔭 Currently exploring: Procedural generation, AI in games, self-hosted cloud tools  
-- 🎮 Favorite dev zone: Mixing creativity with systems – from shaders to pipelines  
-- ⚡ Fun fact: I probably have more dev tools installed than games 😅
+- Currently exploring: platform tooling for small teams, AI in games, infra automation
+- I enjoy the intersection of creativity + systems (tools, pipelines, performance)
+- I probably have more dev tools installed than games
