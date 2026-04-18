@@ -17,8 +17,7 @@ I like turning messy problems into clean systems: from pipelines and observabili
 ---
 ### Projects
 
-- [minimuuu.it](https://minimuuu.it)  
-- [notminicrawler.com](https://notminicrawler.com)
+- [minimuuu.it](https://minimuuu.it)
 
 ---
 
